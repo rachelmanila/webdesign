@@ -1,0 +1,78 @@
+body {
+  border: 3px solid black margin: 10px;
+  background-color: #918260
+}
+
+main {
+  border: 2px solid black;
+  width: 100px;
+  margin: 25px;
+  padding: 10px;
+}
+
+h1 {
+  border: 3px solid white;
+  padding: 50px
+}
+
+h1 {
+  margin: .25em 0 .25em;
+  padding-left: 300px;
+  color: white;
+  font-size: 100px;
+  font-family: serif;
+  Playfair Display SC
+}
+
+img {
+
+max-width: 10%
+
+
+}
+
+
+h2, p {
+  color: white
+}
+
+h2 {
+  font-size: 48px
+}
+
+h2{
+  padding-left: 500px
+}
+p {
+  font-size: 24px
+}
+
+nav {
+  padding-left: 250px
+
+}
+
+h3, p{
+  font-family: fantasy;indie flower
+
+
+}
+
+h3, p{
+  padding-left: 48px
+}
+
+h3, p
+{
+  color: #fe8
+}
+
+
+img{
+  margin-right: 50px
+
+}
+
+img{
+  padding-left: 30px
+}
